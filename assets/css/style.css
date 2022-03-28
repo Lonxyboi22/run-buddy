@@ -1,4 +1,12 @@
+/* Header styles!*/
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+}
+
 body {
+
     font-family: Helvetica, Arial, sans-serif;
-    background-color: tomato;
+    color: #39a6b2;
+    /* using the hex code is easier!!!*/
   }
